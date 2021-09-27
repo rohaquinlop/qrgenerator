@@ -27,7 +27,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install
-    - run: echo ~/.ssh/id_rsa.pub
+    - run: cat ~/.ssh/id_rsa.pub
     - run: git config --global user.email "rohaquinlop301@gmail.com"
     - run: git config --global user.name "Robin Hafid Quintero Lopez"
     - run: npm run deploy
