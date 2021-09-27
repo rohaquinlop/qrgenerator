@@ -2,7 +2,7 @@
   <footer>
     <div class="content">
       <h3>Robin Hafid Quintero Lopez</h3>
-      <p>Software developer at Banco de Occidente and Systems engineering student at Pontificia Universidad Javeriana in Cali, Colombia.</p>
+      <p>Software developer at Banco de Occidente and Systems engineering student at Pontificia Universidad Javeriana Cali, Colombia.</p>
       <ul class="socials">
         <li><a href="https://github.com/rohaquinlop"><i class="fa fa-github"></i></a></li>
         <li><a href="https://www.linkedin.com/in/robin-hafid-quintero-lopez/"><i class="fa fa-linkedin-square"></i></a></li>
