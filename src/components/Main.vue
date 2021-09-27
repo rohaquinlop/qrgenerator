@@ -67,7 +67,6 @@ export default {
       }
       xhr.open('GET', img);
       xhr.send();
-      console.log(img);
     }
   }
 }
